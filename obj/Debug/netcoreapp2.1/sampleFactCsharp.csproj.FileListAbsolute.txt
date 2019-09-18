@@ -1,0 +1,9 @@
+C:\Users\Tyler\source\repos\AlexaLambda\obj\Debug\netcoreapp2.1\sampleFactCsharp.csprojAssemblyReference.cache
+C:\Users\Tyler\source\repos\AlexaLambda\obj\Debug\netcoreapp2.1\sampleFactCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\source\repos\AlexaLambda\obj\Debug\netcoreapp2.1\sampleFactCsharp.AssemblyInfoInputs.cache
+C:\Users\Tyler\source\repos\AlexaLambda\obj\Debug\netcoreapp2.1\sampleFactCsharp.AssemblyInfo.cs
+C:\Users\Tyler\source\repos\AlexaLambda\bin\Debug\netcoreapp2.1\sampleFactCsharp.deps.json
+C:\Users\Tyler\source\repos\AlexaLambda\bin\Debug\netcoreapp2.1\sampleFactCsharp.dll
+C:\Users\Tyler\source\repos\AlexaLambda\bin\Debug\netcoreapp2.1\sampleFactCsharp.pdb
+C:\Users\Tyler\source\repos\AlexaLambda\obj\Debug\netcoreapp2.1\sampleFactCsharp.dll
+C:\Users\Tyler\source\repos\AlexaLambda\obj\Debug\netcoreapp2.1\sampleFactCsharp.pdb

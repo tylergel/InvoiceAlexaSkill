@@ -1,0 +1,11 @@
+C:\Users\Tyler\source\repos\AlexaLambda\bin\Release\netcoreapp2.1\rhel.7.2-x64\sampleFactCsharp.deps.json
+C:\Users\Tyler\source\repos\AlexaLambda\bin\Release\netcoreapp2.1\rhel.7.2-x64\sampleFactCsharp.runtimeconfig.json
+C:\Users\Tyler\source\repos\AlexaLambda\bin\Release\netcoreapp2.1\rhel.7.2-x64\sampleFactCsharp.runtimeconfig.dev.json
+C:\Users\Tyler\source\repos\AlexaLambda\bin\Release\netcoreapp2.1\rhel.7.2-x64\sampleFactCsharp.dll
+C:\Users\Tyler\source\repos\AlexaLambda\bin\Release\netcoreapp2.1\rhel.7.2-x64\sampleFactCsharp.pdb
+C:\Users\Tyler\source\repos\AlexaLambda\obj\Release\netcoreapp2.1\rhel.7.2-x64\sampleFactCsharp.csprojAssemblyReference.cache
+C:\Users\Tyler\source\repos\AlexaLambda\obj\Release\netcoreapp2.1\rhel.7.2-x64\sampleFactCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\source\repos\AlexaLambda\obj\Release\netcoreapp2.1\rhel.7.2-x64\sampleFactCsharp.AssemblyInfoInputs.cache
+C:\Users\Tyler\source\repos\AlexaLambda\obj\Release\netcoreapp2.1\rhel.7.2-x64\sampleFactCsharp.AssemblyInfo.cs
+C:\Users\Tyler\source\repos\AlexaLambda\obj\Release\netcoreapp2.1\rhel.7.2-x64\sampleFactCsharp.dll
+C:\Users\Tyler\source\repos\AlexaLambda\obj\Release\netcoreapp2.1\rhel.7.2-x64\sampleFactCsharp.pdb
